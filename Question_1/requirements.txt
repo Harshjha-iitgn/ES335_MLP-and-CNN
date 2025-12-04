@@ -1,0 +1,6 @@
+streamlit
+numpy
+huggingface-hub
+torch
+matplotlib
+scikit-learn
